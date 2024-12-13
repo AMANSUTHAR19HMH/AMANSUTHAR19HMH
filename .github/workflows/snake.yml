@@ -15,7 +15,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: AMANSUTHAR19HMH
+         github_user_name: AMANSUTHAR19HMH
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
