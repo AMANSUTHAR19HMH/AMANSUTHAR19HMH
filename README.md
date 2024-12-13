@@ -5,14 +5,12 @@
 
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
-![Leetcode Stats](https://leetcard.jacoblin.cool/AMANSUTHAR
-)
-  <!-- <a href="https://leetcode.com/u/AMANSUTHAR/" target="_blank">
+  <a href="https://leetcode.com/u/AMANSUTHAR/" target="_blank">
     <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="AMANSUTHAR" height="200" width="200" />
-  </a> -->
+  </a>
 </p>
 <p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />    
+  <img align="top" src="https://leetcard.jacoblin.cool/AMANSUTHAR?theme=dark&font=Nunito&ext=heatmap" />    
 </p>
 
 <br/>
