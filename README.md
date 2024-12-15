@@ -1,7 +1,7 @@
-![snake gif](https://github.com/AMANSUTHAR19HMH/AMANSUTHAR19HMH/blob/output/github-contribution-grid-snake.gif)
+
 <!DOCTYPE html>
 <h1 align="center">SNAKE-EATING-CONTRIBUTION-GRAPH</h1>
-
+![snake gif](https://github.com/AMANSUTHAR19HMH/AMANSUTHAR19HMH/blob/output/github-contribution-grid-snake.gif)
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
 <h3 aligh="center">Wecome to this Repository.</h3></br>
