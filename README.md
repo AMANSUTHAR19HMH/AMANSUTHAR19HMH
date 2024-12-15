@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <h1 align="center">SNAKE-EATING-CONTRIBUTION-GRAPH</h1>
 
-
+![snake gif](https://github.com/AMANSUTHAR19HMH/AMANSUTHAR19HMH/output/github-contribution-grid-snake.gif)
 <h3 aligh="center">Wecome to this Repository.</h3></br>
 <ul>
   <li><b>Try it by downloading the instruction.docx file. <b/></li></br>
