@@ -1,47 +1,55 @@
-
 <!DOCTYPE html>
-<h1 align="center">SNAKE-EATING-CONTRIBUTION-GRAPH</h1>
+<h1 align="center">🐍 Snake Eating Contribution Graph 🐍</h1>
 
-![snake gif](https://github.com/AMANSUTHAR19HMH/AMANSUTHAR19HMH/blob/output/github-contribution-grid-snake.gif)
-<h3 aligh="center">Wecome to this Repository.</h3></br>
+<p align="center">
+  <img alt="snake gif" src="https://github.com/AMANSUTHAR19HMH/AMANSUTHAR19HMH/blob/output/github-contribution-grid-snake.gif" />
+</p>
+
+<h3 align="center">Welcome to this Repository</h3>
+<br/>
+
 <ul>
-  <li><b>Try it by downloading the instruction.docx file. <b/></li></br>
-  <li>It will customize the UI?UX of your github to adding some extra gifs. </li></br>
-<li>The more your contribution will increase, the more it will look awesome. </li></br>
-<li>For any suggestion/improvement or to talk on any tech topic connect with me   :  https://linktr.ee/sudoshivesh </li></br>
+  <li><b>Try it by downloading the instruction.docx file.</b></li>
+  <li>Customize the UI/UX of your GitHub profile by adding some extra GIFs.</li>
+  <li>The more your contributions increase, the more awesome it will look!</li>
+  <li>For suggestions, improvements, or to discuss tech topics, connect with me: 
+    <a href="https://linktr.ee/sudoshivesh" target="_blank">https://linktr.ee/sudoshivesh</a>
+  </li>
 </ul>
 
-<h3 align="left">In this snake-eating-contribution-graph repository you can.</h3><br>
+---
+
+<h3 align="left">In This Repository, You Can:</h3>
+
 <ol>
-<li>Add svg/gif file to your repository</li>
-<li>Learn how to use contribution graph</li>
-<li>How to create workflows in github</li>
-<li>How to imply workflows</li>
-<li>More is coming..........Follow Me!</li>
-<li>https://github.com/AMANSUTHAR19HMH/</li>
-<li>https://linkedin.com/in/AMANSUTHAR19</li> 
+  <li>Add SVG/GIF files to your repository.</li>
+  <li>Learn how to use the contribution graph effectively.</li>
+  <li>Understand how to create and implement GitHub workflows.</li>
+  <li>More features and enhancements are coming! Stay tuned and follow me.</li>
+  <li>Find my GitHub profile: <a href="https://github.com/AMANSUTHAR19HMH" target="_blank">AMANSUTHAR19HMH</a></li>
+  <li>Connect with me on LinkedIn: <a href="https://linkedin.com/in/AMANSUTHAR19" target="_blank">AMANSUTHAR19</a></li>
 </ol>
-</html>
 
+---
 
-<h2 align="center">Leetcode Info</h2>  
+<h2 align="center">📚 Leetcode Info 📚</h2>
 <p align="center">
   <a href="https://leetcode.com/u/AMANSUTHAR/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="AMANSUTHAR" height="200" width="200" />
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
 </p>
+
 <p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/AMANSUTHAR?theme=dark&font=Nunito&ext=heatmap" />    
+  <img align="top" src="https://leetcard.jacoblin.cool/AMANSUTHAR?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />    
 </p>
 
-<br/>
-<h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=AMANSUTHAR19HMH&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AMANSUTHAR19HMH&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANSUTHAR19HMH&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<h3 align="left">In this snake-eating-contribution-graph repository you can.</h3><br>
+---
 
-</html>
+<h2 align="center">⚡ Current Stats ⚡</h2>
+<br/>
+
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=AMANSUTHAR19HMH&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AMANSUTHAR19HMH&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANSUTHAR19HMH&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
