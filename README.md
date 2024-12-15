@@ -1,4 +1,4 @@
-![github-contribution-grid-snake](https://raw.githubusercontent.com/AMANSUTHAR19HMH/AMANSUTHAR19HMH/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AMANSUTHAR19HMH/AMANSUTHAR19HMH/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
@@ -19,13 +19,5 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANSUTHAR19HMH&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <h3 align="left">In this snake-eating-contribution-graph repository you can.</h3><br>
-<ol>
-<li>Add svg/gif file to your repository</li>
-<li>Learn how to use contribution graph</li>
-<li>How to create workflows in github</li>
-<li>How to imply workflows</li>
-<li>More is coming..........Follow Me!</li>
-<li>https://github.com/AMANSUTHAR19HMH/</li>
-<li>https://linkedin.com/in/AMANSUTHAR19</li> 
-</ol>
+
 </html>
