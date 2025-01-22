@@ -35,7 +35,7 @@
 <h2 align="center">📚 Leetcode Info 📚</h2>
 <p align="center">
   <a href="https://leetcode.com/u/AMANSUTHAR/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge" height="200" width="200" />
+    <img align="center" src="https://leetcode.com/medal/?showImg=0&id=5876952&isLevel=false" alt="LeetCode Badge" height="200" width="200" />
   </a>
 </p>
 
